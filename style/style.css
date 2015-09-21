@@ -718,9 +718,6 @@ and (max-device-width : 480px) {
 	#top_menu_nav li span{
     display: none;
   }
-  #top_menu_nav li:hover{
-    display: auto;
-  }
   
   #chromium_img {
     width: 100px;
